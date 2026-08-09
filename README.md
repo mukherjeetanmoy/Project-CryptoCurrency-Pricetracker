@@ -6,7 +6,7 @@ This project focuses on creating a clean, visually engaging cryptocurrency-theme
 
 ## 📸 Preview
 
-![Crypto Price Tracker](Screenshot of crypto webaite.png)
+![Crypto Price Tracker](Screenshot_of_crypto_webaite.png)
 
 ---
 
