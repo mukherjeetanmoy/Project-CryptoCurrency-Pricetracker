@@ -1,26 +1,48 @@
-💰 Cryptocurrency Website
+# 🚀 Crypto Price Tracker
 
-A responsive Cryptocurrency Website built using HTML, CSS, and JavaScript.
-This project displays cryptocurrency-related information with a modern UI and interactive elements. 
+A modern and responsive cryptocurrency price tracker website built using **HTML, CSS, and JavaScript**.
 
-📖 About the Project
-This project is a front-end cryptocurrency website that demonstrates how to design and develop a modern web interface using core web technologies. It focuses on layout design, styling, responsiveness, and basic interactivity using JavaScript.
+This project focuses on creating a clean, visually engaging cryptocurrency-themed interface with responsive layouts and interactive frontend elements.
 
-The project helped me understand:
-Website structure using HTML
-Styling and responsiveness using CSS
-Dynamic behavior using JavaScript
+## 📸 Preview
 
-🚀 Features:
+![Crypto Price Tracker](screenshot.png)
 
-📊 Cryptocurrency-themed UI design
-📱 Fully responsive layout
-🎨 Modern and clean user interface
-⚡ Interactive elements using JavaScript
-🧩 Beginner-friendly project structure
+---
 
-🛠️ Technologies Used:
+## ✨ Features
 
-HTML5 – Structure of the website
-CSS3 – Styling and responsive design
-JavaScript (ES6) – Interactivity and dynamic behavior
+- 🪙 Cryptocurrency price cards
+- 📊 Bitcoin, Ethereum and Dogecoin sections
+- 🎨 Modern dark-themed user interface
+- 📱 Responsive design
+- 🧭 Clean navigation bar
+- ⚡ Interactive elements using JavaScript
+- 💻 Organized frontend project structure
+- 🌐 User-friendly interface
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|------------|---------|
+| HTML5 | Website structure |
+| CSS3 | Styling, layout and responsiveness |
+| JavaScript | Interactivity and dynamic behavior |
+
+---
+
+## 📂 Project Structure
+
+```text
+crypto-price-tracker/
+│
+├── images/
+│   ├── ...
+│
+├── index.html
+├── style.css
+├── script.js
+├── screenshot.png
+└── README.md
